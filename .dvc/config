@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = G:/10_academy/Week_3/solutions/temp

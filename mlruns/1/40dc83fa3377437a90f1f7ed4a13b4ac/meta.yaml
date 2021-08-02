@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/10_academy/Week_3/solution/Pharmaceutical-Sales-Prediction/mlruns/1/40dc83fa3377437a90f1f7ed4a13b4ac/artifacts
+end_time: 1627729329651
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 40dc83fa3377437a90f1f7ed4a13b4ac
+run_uuid: 40dc83fa3377437a90f1f7ed4a13b4ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627729328996
+status: 3
+tags: []
+user_id: Hp
